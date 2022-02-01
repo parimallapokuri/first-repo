@@ -1,0 +1,102 @@
+    1  git status
+    2  git add README.md
+    3  git status
+    4  git commit -m
+    5  git commit -m"made changes at local repo"
+    6  git status
+    7  git push
+    8  git status
+    9  git status
+   10  git add simplefile.txt
+   11  git restore simplefile.txt
+   12  git add simplefile.txt
+   13  git commit -a"Hi This is Parimalla Pokuri"
+   14  commit -a
+   15  git commit -a
+   16  git push
+   17  git status
+   18  git status
+   19  git add gandhi.docx
+   20  git commit -m"Part-7 microsoft doc is adding in repo"
+   21  git push
+   22  git status
+   23  git branch alternative
+   24  git checkout alternative
+   25  git status
+   26  git add gandhi.docx
+   27  git restore simplefile.txt
+   28  git commit -a
+   29  git status
+   30  git push
+   31  git push --set-upstream origin alternative
+   32  git status
+   33  git push --set-upstream origin alternative
+   34  git status
+   35  git checkout main
+   36  git status
+   37  git status
+   38  git add gandhi.docx
+   39  git restore simplefile.txt
+   40  git commit -a
+   41  git push
+   42  git status
+   43  git merge alternative
+   44  git merge alternative
+   45  git add simplefile.txt
+   46  git merge alternative
+   47  git checkout merge
+   48  git restore simplefile.txt
+   49  git merge altenative
+   50  git merge --abort
+   51  git merge alternative
+   52  git status
+   53  git commit
+   54  git add gandhi.docx
+   55  git status
+   56  git merge --abort
+   57  git status
+   58  pwd
+   59  cln
+   60  git merge alternative
+   61  git checkout --theirs -- gandhi.docx
+   62  git add gandhi.docx
+   63  git status
+   64  git merge alternative
+   65  git commit
+   66  git status
+   67  git add simplefile.txt
+   68  git status
+   69  git restore simplefile.txt
+   70  git push
+   71  git status
+   72  git restore simplefile.txt
+   73  git status
+   74  git restore simplefile.txt
+   75  git status
+   76  git merge -continue
+   77  git merge --continue
+   78  ssh-keygen -t ed25519 -C "pokuriparimalla2000@gmail.com"
+   79  cat ~/.ssh/id_ed25519.pub
+   80  git status
+   81  git restore --staged simplefile.txt
+   82  git status
+   83  git add simplefile.txt
+   84  git restore simplefile.txt
+   85* 
+   86  git merge alternative
+   87  git status
+   88  git restore --staged simplefile.txt
+   89  git add gandhi.docx
+   90  fit restore gandhi.dcox
+   91  git restore gandhi.docx
+   92  git status
+   93  git commit
+   94  git status
+   95  git add simplefile.txt
+   96  git restore simplefile.txt
+   97  git commit -a
+   98  git status
+   99  git push
+  100  git status
+  101  git merge alternative
+  102  history>>history.txt
